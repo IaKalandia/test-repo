@@ -1,2 +1,1 @@
-# test-repo
-make changes from terminal into README.md file so i an see i can make changes :D
+let me see if i can change this file and then add changes to stage and then commit it 
